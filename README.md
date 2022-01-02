@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satrio Wibisono</h1>
+<h1 align="center">Hi 👋, Welcome</h1>
 <h3 align="center">still a student</h3>
 
 - 📝 I regularly write articles on [https://srtench.blogspot.com/](https://srtench.blogspot.com/)
