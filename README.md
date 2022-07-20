@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, Welcome</h1>
-<h3 align="center">still a student</h3>
+<h1 align="center">Hi 👋,I like typing and listening to music</h1>
 
 - 📝 I regularly write articles on [https://srtench.blogspot.com/](https://srtench.blogspot.com/)
 
